@@ -53,5 +53,6 @@ MIT
 
 ## Screenshot
 
-![Jate Text Editor Screenshot](assets/images/screenshot.png)
+[Jate Text Editor Screenshot](assets/images/screenshot.png)![Screenshot 2024-01-30 at 8 47 01 PM](https://github.com/jassakoch/Text-Editor/assets/140959169/8720857f-4c46-48d3-960e-636982374c05)
+
 
