@@ -7,7 +7,7 @@
 
 ## Description
 
-The Jate Text Editor is a progressive web application (PWA) designed to provide a reliable and efficient text editing experience in the browser, with or without an internet connection. Built as a single-page application, it leverages IndexedDB for data persistence and operates flawlessly offline. This project showcases advanced web technologies and the implementation of data storage with the idb package.
+The Jate Text Editor is a progressive web application (PWA) designed for text editing experience in the browser, with or without an internet connection. Built as a single-page application, it leverages IndexedDB for perserving data. This project showcases advanced web technologies and the implementation of data storage with the idb package.
 
 - **Motivation:** To create a robust text editor for developers to write notes or code snippets.
 - **Why This Project:** To demonstrate the power of PWAs and data persistence in modern web applications.
@@ -21,6 +21,7 @@ The Jate Text Editor is a progressive web application (PWA) designed to provide 
 - [Credits](#credits)
 - [Deployment](#deployment)
 - [License](#license)
+- [Screenshot](#screenshot)
 
 ## Installation
 
@@ -40,8 +41,17 @@ To use the Jate Text Editor:
 4. Install the application locally by clicking the 'Install' button in the browser.
 
 
+## Deployment
 
+This application is deployed through Render, here is the [link](https://jate-text-editor-z9be.onrender.com).
+
+## Credits
+This application was built based on U of T, Coding Bootcamp X, starter code from PWA module as well as copy and pasted the todo items from various assignments from the PWA module in the course work. 
+
+## License
+MIT
+
+## Screenshot
 
 ![Jate Text Editor Screenshot](assets/images/screenshot.png)
 
-https://jate-text-editor-z9be.onrender.com

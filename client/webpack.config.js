@@ -52,6 +52,7 @@ module.exports = () => {
 
     module: {
       // CSS loaders
+      //The css loader, allows to use CSS modules and import CSS files into javascript files.
       rules: [
         {
           test: /\.css$/i,
