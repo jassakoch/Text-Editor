@@ -18,11 +18,26 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
+      //Webpack for bundles
+      new HtmlWebpackPlugin({
+        template: "./index.html",
+        title: "JATE",
+      }),
+      //Injectmanifest for service worker for custom caching
+      new InjectManifest({
+        swSrc: "./src-sw.js",
+        swDest: "src-sw.js",
+      }),
+      //Manifest for downloadable icon and metadata about the app, in json file
+      
+      //IDB database
       
     ],
 
     module: {
       rules: [
+        //CSS 
+        //Babel translator
         
       ],
     },
