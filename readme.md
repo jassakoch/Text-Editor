@@ -19,6 +19,7 @@ The Jate Text Editor is a progressive web application (PWA) designed to provide 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Deployment](#deployment)
 - [License](#license)
 
 ## Installation
@@ -38,7 +39,9 @@ To use the Jate Text Editor:
 3. Edit text as needed. Data is automatically saved to IndexedDB.
 4. Install the application locally by clicking the 'Install' button in the browser.
 
-```md
+
+
+
 ![Jate Text Editor Screenshot](assets/images/screenshot.png)
 
 https://jate-text-editor-z9be.onrender.com
