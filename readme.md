@@ -47,6 +47,7 @@ This application is deployed through Render, here is the [link](https://jate-tex
 
 ## Credits
 This application was built based on U of T, Coding Bootcamp X, starter code from PWA module as well as copy and pasted the todo items from various assignments from the PWA module in the course work. 
+ - Bahar Ossareh, tutoring session, here is her github [link](https://github.com/bahossdev)
 
 ## License
 MIT
